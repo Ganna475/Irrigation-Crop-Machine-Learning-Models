@@ -120,13 +120,19 @@ Additional Notes
 
 - Saved models are ready for deployment or further experimentation.
 
-- Future improvements may include:
 
-Adding more features (climate data, soil type, irrigation patterns)
 
-Hyperparameter tuning for better performance
 
-Using advanced ensemble methods like XGBoost or LightGBM
+
+
+
+Future improvements may include:
+
+- Adding more features (climate data, soil type, irrigation patterns)
+
+- Hyperparameter tuning for better performance
+
+- Using advanced ensemble methods like XGBoost or LightGBM
 
 
 
